@@ -1,4 +1,7 @@
-### Hi there 👋
+<a href="https://instagram.com/wltnryu?igshid=NTdlMDg3MTY=" target="_blank"><img src="https://img.shields.io/badge/wltnryu-FFB71B?style=flat-sqaure&logo=Instagram&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/yebbnrjs@gmail.com-EA4335?style=flat-sqaure&logo=Gmail&logoColor=FFFFFF"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wltnryu&show_icons=true&theme=slateorange)
 
 <!--
 **wltnryu/wltnryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
