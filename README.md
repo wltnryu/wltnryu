@@ -1,4 +1,4 @@
-# ✨ wltnryu
+# ✨ Jisu Ryu
 
 <a href="https://instagram.com/wltnryu?igshid=NTdlMDg3MTY=" target="_blank"><img src="https://img.shields.io/badge/wltnryu-FFB71B?style=flat-sqaure&logo=Instagram&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/yebbnrjs@gmail.com-EA4335?style=flat-sqaure&logo=Gmail&logoColor=FFFFFF"/></a>
